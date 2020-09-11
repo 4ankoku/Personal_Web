@@ -1,4 +1,4 @@
-# Ankoku Personal Web
+# Ankoku Personal Web.
 
 An Personal Website, write using flutter.
 
